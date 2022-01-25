@@ -1,0 +1,23 @@
+{
+  "name": "bad-pack",
+  "version": "1.0.0",
+  "description": "very useless",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frostzzone/bad-pack.git"
+  },
+  "keywords": [
+    "bad",
+    "js"
+  ],
+  "author": "frostzzone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frostzzone/bad-pack/issues"
+  },
+  "homepage": "https://github.com/frostzzone/bad-pack#readme"
+}
