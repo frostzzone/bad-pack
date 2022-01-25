@@ -1,0 +1,1 @@
+bad pack for npm
