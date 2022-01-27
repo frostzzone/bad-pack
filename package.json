@@ -1,23 +1,28 @@
 {
   "name": "bad-pack",
-  "version": "1.0.0",
-  "description": "very useless",
+  "version": "0.0.1",
+  "description": "Bad pack for npm",
   "main": "index.js",
   "scripts": {
     "test": "node ."
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/frostzzone/bad-pack.git"
   },
   "keywords": [
     "bad",
     "js"
   ],
   "author": "frostzzone",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/frostzzone/bad-pack/issues"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^13.5.0",
+    "node": "^17"
   },
-  "homepage": "https://github.com/frostzzone/bad-pack#readme"
+  "repository": {
+    "type": "ISC",
+    "url": "git://github.com/frostzzone/bad-pack.git"
+  },
+  "homepage": "https://github.com/frostzzone/bad-pack",
+  "bugs": {
+    "url": "https://github.com/frostzzone/bad-pack"
+  }
 }
