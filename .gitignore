@@ -1,0 +1,9 @@
+# Node
+node_modules
+
+# Compiled files
+package-lock.json
+
+# Just Ignore These
+.replit
+test.js

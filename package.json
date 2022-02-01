@@ -1,8 +1,8 @@
 {
   "name": "bad-pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bad pack for npm",
-  "main": "index.js",
+  "main": "test.js",
   "scripts": {
     "test": "node ."
   },
